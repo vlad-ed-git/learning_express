@@ -1,0 +1,22 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "my hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlad-ed-git/learning_express.git"
+  },
+  "author": "vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlad-ed-git/learning_express/issues"
+  },
+  "homepage": "https://github.com/vlad-ed-git/learning_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
